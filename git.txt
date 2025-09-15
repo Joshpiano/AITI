@@ -2,4 +2,12 @@ I love Jesus
  
 okay naw
 
+<<<<<<< HEAD
 commit main
+=======
+add a new feature
+
+added another line
+>>>>>>> 6ae205a7b1139b687d149d9f92e482e2a2146e3c
+
+new cnahge for difference learning
